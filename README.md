@@ -6,12 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi149/LeetSync/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi149/LeetSync/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
