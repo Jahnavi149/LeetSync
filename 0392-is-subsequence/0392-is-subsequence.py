@@ -1,15 +1,24 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        n1, n2 = len(s), len(t)
-        if n1 == 0:
-            return True
-        i, j = 0, 0
-        while j < n2:
-            if s[i] == t[j]:
-                i += 1
-                if i == n1:
-                    return True
-            j += 1
-        return i == n1
+        t_dict = {}
+        for i in range(len(t)):
+            if t[i] in t_dict:
+                t_dict[t[i]].append(i)
+            else:
+                t_dict[t[i]] = [i]
+        curr = -1
+        for x in s:
+            if x not in t_dict:
+                return False
+            found = False
+
+            for idx in t_dict[x]:
+                if idx > curr:
+                    found = True
+                    curr = idx
+                    break
+            if not found:
+                return False
+        return True
 
         
