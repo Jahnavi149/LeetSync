@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jahnavi149/LeetSync/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Jahnavi149/LeetSync/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi149/LeetSync/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jahnavi149/LeetSync/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jahnavi149/LeetSync/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Jahnavi149/LeetSync/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
