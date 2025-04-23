@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Jahnavi149/LeetSync/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Jahnavi149/LeetSync/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi149/LeetSync/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 ## Array
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Jahnavi149/LeetSync/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0113-path-sum-ii) |
 ## Binary Search
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Jahnavi149/LeetSync/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
