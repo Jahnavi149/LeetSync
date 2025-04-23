@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jahnavi149/LeetSync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jahnavi149/LeetSync/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0059-spiral-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jahnavi149/LeetSync/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
