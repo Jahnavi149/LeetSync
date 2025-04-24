@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jahnavi149/LeetSync/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jahnavi149/LeetSync/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jahnavi149/LeetSync/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Prefix Sum
 |  |
 | ------- |
