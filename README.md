@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
+| [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Dynamic Programming
@@ -120,5 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
