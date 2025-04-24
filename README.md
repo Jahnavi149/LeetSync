@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
+| [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jahnavi149/LeetSync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
+| [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,8 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0059-spiral-matrix-ii) |
+| [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
