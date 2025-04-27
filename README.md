@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
 | [1511-count-number-of-teams](https://github.com/Jahnavi149/LeetSync/tree/master/1511-count-number-of-teams) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Jahnavi149/LeetSync/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Dynamic Programming
 |  |
 | ------- |
