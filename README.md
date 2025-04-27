@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi149/LeetSync/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Jahnavi149/LeetSync/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi149/LeetSync/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Jahnavi149/LeetSync/tree/master/0443-string-compression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jahnavi149/LeetSync/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
