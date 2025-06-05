@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Jahnavi149/LeetSync/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Jahnavi149/LeetSync/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jahnavi149/LeetSync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Sliding Window
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Jahnavi149/LeetSync/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 ## Simulation
