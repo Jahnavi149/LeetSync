@@ -5,20 +5,21 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def dfs(self, root, targetSum, curr, result):
+    def DFS(self, root, target, hasPath):
         if root.left is None and root.right is None:
-            if curr == targetSum:
-                result[0] = True
+            if target == 0:
+                hasPath[0] = True
             return
         if root.left:
-            self.dfs(root.left, targetSum, curr + root.left.val, result)
+            self.DFS(root.left, target - root.left.val, hasPath)
         if root.right:
-            self.dfs(root.right, targetSum, curr + root.right.val, result)
-        
+            self.DFS(root.right, target - root.right.val, hasPath)
+
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
         if root is None:
             return False
-        result = [False]
-        self.dfs(root, targetSum, root.val, result)
-        return result[0]
+        hasPath = [False]
+        self.DFS(root, targetSum - root.val, hasPath)
+        return hasPath[0]
+        
         
