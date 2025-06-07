@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
 | [1511-count-number-of-teams](https://github.com/Jahnavi149/LeetSync/tree/master/1511-count-number-of-teams) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
+| [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Sliding Window
 |  |
@@ -136,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
