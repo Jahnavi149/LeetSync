@@ -8,6 +8,6 @@ class Solution:
                 merged.append(intervals[i])
             else:
                 merged[-1][1] = max(merged[-1][1], intervals[i][1])
-                merged[-1][0] = min(merged[-1][0], intervals[i][0])
+                
         return merged
         
