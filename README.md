@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Jahnavi149/LeetSync/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Jahnavi149/LeetSync/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Jahnavi149/LeetSync/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Jahnavi149/LeetSync/tree/master/0443-string-compression) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Jahnavi149/LeetSync/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Jahnavi149/LeetSync/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/Jahnavi149/LeetSync/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Jahnavi149/LeetSync/tree/master/1511-count-number-of-teams) |
