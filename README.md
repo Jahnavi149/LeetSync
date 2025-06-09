@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/Jahnavi149/LeetSync/tree/master/0695-max-area-of-island) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 | [0907-koko-eating-bananas](https://github.com/Jahnavi149/LeetSync/tree/master/0907-koko-eating-bananas) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0113-path-sum-ii) |
+| [0695-max-area-of-island](https://github.com/Jahnavi149/LeetSync/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0112-path-sum) |
+| [0695-max-area-of-island](https://github.com/Jahnavi149/LeetSync/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Jahnavi149/LeetSync/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jahnavi149/LeetSync/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/Jahnavi149/LeetSync/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Jahnavi149/LeetSync/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
