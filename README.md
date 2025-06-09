@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Jahnavi149/LeetSync/tree/master/0795-k-th-symbol-in-grammar) |
 ## Design
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Jahnavi149/LeetSync/tree/master/0795-k-th-symbol-in-grammar) |
 ## Hash Function
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Jahnavi149/LeetSync/tree/master/0695-max-area-of-island) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Jahnavi149/LeetSync/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
