@@ -1,19 +1,17 @@
 class MyHashMap:
 
     def __init__(self):
-        self.array = [-1]*(pow(10, 6)+1)
-        self.present = [False]*(pow(10, 6)+1)
-        
-    def put(self, key: int, value: int) -> None:
-        self.array[key] = value
-        self.present[key] = True       
+        self.cap = pow(10, 6)+1
+        self.hash = [-1]*self.cap
 
+    def put(self, key: int, value: int) -> None:
+        self.hash[key] = value
+        
     def get(self, key: int) -> int:
-        return self.array[key]
+        return self.hash[key]
         
     def remove(self, key: int) -> None:
-        self.array[key] = -1
-        self.present[key] = False
+        self.hash[key] = -1
         
 
 
