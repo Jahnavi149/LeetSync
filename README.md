@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jahnavi149/LeetSync/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
 ## Queue
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jahnavi149/LeetSync/tree/master/0053-maximum-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
