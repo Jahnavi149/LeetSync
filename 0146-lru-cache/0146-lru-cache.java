@@ -1,4 +1,4 @@
-class DLL {
+class DLL{
     int key;
     int val;
     DLL prev;
@@ -11,21 +11,28 @@ class DLL {
     }
 }
 
-class LRUCache {
+class LRUCache{
     private int capacity;
     private HashMap<Integer, DLL> map;
-    private DLL oldest;
-    private DLL latest;
-
-    public LRUCache(int capacity) {
+    private DLL oldest, latest;
+    
+    public LRUCache(int capacity){
         this.capacity = capacity;
         this.map = new HashMap<>();
         this.oldest = new DLL(0, 0);
-        this.latest = new DLL(0, 0); 
-        this.oldest.next = this.latest;
-        this.latest.prev = this.oldest;      
+        this.latest = new DLL(0, 0);
+        oldest.next = latest;
+        latest.prev = oldest;
     }
-
+    // Insert as latest
+    private void insert(DLL node){
+        DLL prev = latest.prev;
+        prev.next = node;
+        node.prev = prev;
+        node.next = latest;
+        latest.prev = node;
+    }
+    //Remove node
     private void remove(DLL node){
         DLL prev = node.prev;
         DLL next = node.next;
@@ -33,45 +40,37 @@ class LRUCache {
         next.prev = prev;
     }
 
-    private void insert_latest(DLL node){
-        DLL prev = latest.prev;
-        prev.next = node;
-        node.prev = prev;
-        node.next = latest;
-        latest.prev = node;
-    }
-    
-    public int get(int key) {
+    public int get(int key){
         if(map.containsKey(key)){
             DLL node = map.get(key);
-            int value = node.val;
             remove(node);
-            insert_latest(node);
-            return value;
+            insert(node);
+            return node.val;
         }
-        return -1;       
+        return -1;
     }
-    
-    public void put(int key, int value) {
+    public void put(int key, int val){
         if(map.containsKey(key)){
             DLL node = map.get(key);
-            node.val = value;
+            map.remove(key);
             remove(node);
-            insert_latest(node);
-            return;
+            DLL new_node = new DLL(key, val);
+            insert(new_node);
+            map.put(key, new_node);
         }
         else{
-            if (map.size() == capacity){
-                map.remove(oldest.next.key);
-                remove(oldest.next);
+            if(map.size() == capacity){
+                DLL node = oldest.next;
+                oldest.next = oldest.next.next;
+                oldest.next.prev = oldest;
+                map.remove(node.key);
             }
-            DLL new_node = new DLL(key, value);
+            DLL new_node = new DLL(key, val);
             map.put(key, new_node);
-            insert_latest(new_node);
-        }       
+            insert(new_node);
+        }
     }
 }
-
 /**
  * Your LRUCache object will be instantiated and called as such:
  * LRUCache obj = new LRUCache(capacity);
