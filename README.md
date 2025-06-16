@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jahnavi149/LeetSync/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Jahnavi149/LeetSync/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Jahnavi149/LeetSync/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Jahnavi149/LeetSync/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Jahnavi149/LeetSync/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Jahnavi149/LeetSync/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Jahnavi149/LeetSync/tree/master/0326-power-of-three) |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Jahnavi149/LeetSync/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Jahnavi149/LeetSync/tree/master/0795-k-th-symbol-in-grammar) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jahnavi149/LeetSync/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
