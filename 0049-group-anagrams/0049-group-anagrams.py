@@ -16,8 +16,7 @@ class Solution:
                 anagrams_dict[x_dict_str].append(x)
             else:
                 anagrams_dict[x_dict_str] = [x]
-        print(anagrams_dict)
         output = []
         for counter_str in anagrams_dict:
             output.append(anagrams_dict[counter_str])
-        return output
+        return list(anagrams_dict.values())
