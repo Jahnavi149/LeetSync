@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jahnavi149/LeetSync/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Jahnavi149/LeetSync/tree/master/0695-max-area-of-island) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jahnavi149/LeetSync/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Jahnavi149/LeetSync/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [2169-simple-bank-system](https://github.com/Jahnavi149/LeetSync/tree/master/2169-simple-bank-system) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jahnavi149/LeetSync/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jahnavi149/LeetSync/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jahnavi149/LeetSync/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Jahnavi149/LeetSync/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -227,4 +231,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jahnavi149/LeetSync/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jahnavi149/LeetSync/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
