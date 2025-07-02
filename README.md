@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jahnavi149/LeetSync/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Jahnavi149/LeetSync/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Jahnavi149/LeetSync/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Jahnavi149/LeetSync/tree/master/0795-k-th-symbol-in-grammar) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jahnavi149/LeetSync/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Jahnavi149/LeetSync/tree/master/0190-reverse-bits) |
 ## Doubly-Linked List
 |  |
 | ------- |
