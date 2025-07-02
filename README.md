@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Jahnavi149/LeetSync/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Jahnavi149/LeetSync/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jahnavi149/LeetSync/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/Jahnavi149/LeetSync/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Jahnavi149/LeetSync/tree/master/0392-is-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Jahnavi149/LeetSync/tree/master/1511-count-number-of-teams) |
 ## Tree
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jahnavi149/LeetSync/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Jahnavi149/LeetSync/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Jahnavi149/LeetSync/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Jahnavi149/LeetSync/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Jahnavi149/LeetSync/tree/master/0795-k-th-symbol-in-grammar) |
 ## Design
 |  |
