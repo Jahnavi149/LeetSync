@@ -12,8 +12,8 @@ class Solution:
             if len(min_heap) > k:
                 heappop(min_heap)
         freq_ele = []
-        for tup in min_heap:
-            freq, ele = tup
+        for freq, ele in min_heap:
+            
             freq_ele.append(ele)
         return freq_ele
 
