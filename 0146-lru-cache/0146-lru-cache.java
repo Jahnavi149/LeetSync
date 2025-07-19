@@ -1,10 +1,9 @@
 class DLL {
     int key;
     int val;
-    DLL prev;
-    DLL next;
+    DLL prev, next;
 
-    public DLL (int key, int val){
+    public DLL(int key, int val){
         this.key = key;
         this.val = val;
         this.prev = null;
@@ -18,6 +17,10 @@ class DLL {
     public int getVal(){
         return val;
     }
+
+    public void setVal(int value){
+        val = value;
+    }
 }
 
 class LRUCache {
@@ -30,50 +33,53 @@ class LRUCache {
         this.map = new HashMap<>();
         this.oldest = new DLL(0, 0);
         this.latest = new DLL(0, 0);
-        this.oldest.next = this.latest;
-        this.latest.prev = this.oldest;
+        latest.next = oldest;
+        oldest.prev = latest;  
     }
-    // Remove specific node
-    private void remove(DLL node){
-        DLL prev = node.prev;
-        DLL next = node.next;
+
+    public void remove(DLL node){
+        DLL prev = node.prev, next = node.next;
         prev.next = next;
         next.prev = prev;
     }
-    // Add a latest node
-    private void add(DLL node){
-        DLL prev = latest.prev;
-        prev.next = node;
-        node.next = latest;
-        node.prev = prev;
-        latest.prev = node;
+
+    public void addLatest(DLL node){
+        DLL next = latest.next;
+        latest.next = node;
+        node.prev = latest;
+        node.next = next;
+        next.prev = node;
     }
+    
     public int get(int key) {
         if(map.containsKey(key)){
             DLL node = map.get(key);
+            int val = node.getVal();
             remove(node);
-            add(node);
-            return node.getVal();
+            addLatest(node);
+            return val;
         }
-        return -1;
+        return -1;  
     }
     
     public void put(int key, int value) {
         if(map.containsKey(key)){
             DLL node = map.get(key);
+            node.setVal(value);
+            map.put(key, node);
             remove(node);
-            DLL newNode = new DLL(key, value);
-            add(newNode);
-            map.put(key, newNode);
+            addLatest(node);
             return;
         }
         if(map.size() == capacity){
-            map.remove(oldest.next.getKey());
-            remove(oldest.next);   
+            DLL old = oldest.prev;
+            int key_to_remove = old.getKey();
+            map.remove(key_to_remove);
+            remove(old);
         }
         DLL newNode = new DLL(key, value);
-        add(newNode);
-        map.put(key, newNode);  
+        map.put(key, newNode);
+        addLatest(newNode);
     }
 }
 
