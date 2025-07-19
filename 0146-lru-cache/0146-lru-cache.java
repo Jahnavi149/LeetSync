@@ -72,10 +72,10 @@ class LRUCache {
             return;
         }
         if(map.size() == capacity){
-            DLL old = oldest.prev;
-            int key_to_remove = old.getKey();
-            map.remove(key_to_remove);
-            remove(old);
+            DLL lru = oldest.prev;
+            int lru_key = lru.getKey();
+            map.remove(lru_key);
+            remove(lru);
         }
         DLL newNode = new DLL(key, value);
         map.put(key, newNode);
