@@ -1,23 +1,71 @@
+class LL {
+    int key;
+    int val;
+    LL next;
+    public LL(int key, int val){
+        this.key = key;
+        this.val = val;
+    }
+
+    public int getKey(){ return key; }
+    public int getVal(){ return val; }
+    public void setVal(int value){ val = value; }
+}
+
 class MyHashMap {
-    int[] map;
+    LL[] map;
+    int mod = 1000;
 
     public MyHashMap() {
-        this.map = new int[1000001];
-        for(int i=0; i<=1000000; i++){
-            map[i] = -1;
+        this.map = new LL[mod];
+        for(int i=0; i<mod; i++){
+            map[i] = null;
         }
     }
     
     public void put(int key, int value) {
-        map[key] = value;
+        int key_mod = key%mod;
+        LL node = map[key_mod];
+        if(node == null){
+            map[key_mod] = new LL(key, value);
+            return;
+        }
+        while(node.next != null && node.getKey() != key){
+            node = node.next;
+        }
+        if(node.getKey() == key){ node.setVal(value); return; }
+        node.next = new LL(key, value);    
     }
     
     public int get(int key) {
-        return map[key];  
+        int key_mod = key%mod;
+        LL node = map[key_mod];
+        if(node == null){
+            return -1;
+        }
+        while(node != null){
+            if(node.getKey() == key){
+                return node.getVal();
+            }
+            node = node.next;
+        }
+        return -1;
     }
     
     public void remove(int key) {
-        map[key] = -1;
+        int key_mod = key%mod;
+        LL node = map[key_mod];
+        if(node == null){
+            return;
+        }
+        if(node.getKey() == key){
+            map[key_mod] = node.next; return;
+        }
+        while(node.next != null && node.next.getKey() != key){
+            node = node.next;
+        }
+        if(node.next == null){ return; }
+        node.next = node.next.next;
     }
 }
 
