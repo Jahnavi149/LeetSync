@@ -1,53 +1,23 @@
-class Node {
-    int key;
-    int val;
-    Node next;
-
-    public Node(int key, int val){
-        this.key = key;
-        this.val = val;
-        this.next = null;
-    }
-}
-
 class MyHashMap {
-    Node[] arr;
+    int[] map;
 
     public MyHashMap() {
-        this.arr = new Node[1000];
-        
+        this.map = new int[1000001];
+        for(int i=0; i<=1000000; i++){
+            map[i] = -1;
+        }
     }
     
     public void put(int key, int value) {
-        int hashCode = key%1000;
-        Node node = arr[hashCode];
-        if(node == null){ arr[hashCode] = new Node(key, value); return; }
-        while(node != null){
-            if(node.key == key){ node.val = value; return; }
-            if(node.next == null){ node.next = new Node(key, value); }
-            node = node.next;
-        }    
+        map[key] = value;
     }
     
     public int get(int key) {
-        int hashCode = key%1000;
-        Node node = arr[hashCode];
-        while(node != null){
-            if(node.key == key){ return node.val; }
-            node = node.next;
-        }
-        return -1;   
+        return map[key];  
     }
     
     public void remove(int key) {
-        int hashCode = key%1000;
-        Node node = arr[hashCode];
-        if(node == null){ return; }
-        if(node.key == key){ arr[hashCode] = node.next; return; }
-        while(node.next != null){
-            if(node.next.key == key){ node.next = node.next.next; return;}
-            node = node.next;
-        }   
+        map[key] = -1;
     }
 }
 
