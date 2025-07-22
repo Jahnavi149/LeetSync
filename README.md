@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Jahnavi149/LeetSync/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jahnavi149/LeetSync/tree/master/0225-implement-stack-using-queues) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jahnavi149/LeetSync/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Jahnavi149/LeetSync/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Jahnavi149/LeetSync/tree/master/0225-implement-stack-using-queues) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Jahnavi149/LeetSync/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
