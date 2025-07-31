@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jahnavi149/LeetSync/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Jahnavi149/LeetSync/tree/master/0146-lru-cache) |
 | [0817-design-hashmap](https://github.com/Jahnavi149/LeetSync/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Jahnavi149/LeetSync/tree/master/0859-design-circular-deque) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jahnavi149/LeetSync/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Jahnavi149/LeetSync/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Jahnavi149/LeetSync/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Jahnavi149/LeetSync/tree/master/0069-sqrtx) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jahnavi149/LeetSync/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/Jahnavi149/LeetSync/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Jahnavi149/LeetSync/tree/master/0795-k-th-symbol-in-grammar) |
 ## Combinatorics
